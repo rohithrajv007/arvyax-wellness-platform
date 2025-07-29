@@ -53,7 +53,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/arvyax-wellness-platform.git](https://github.com/your-username/arvyax-wellness-platform.git)
+    git clone [https://github.com/rohithrajv007/arvyax-wellness-platform/tree/main)
     cd arvyax-wellness-platform
     ```
 
